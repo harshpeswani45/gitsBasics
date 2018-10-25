@@ -5,5 +5,4 @@ that is pull first fetch the data and then automatically merge them with local r
 
 pull with rebase is used when your changes do not deserve a separate branch
 
-Syntax is git pull --rebase
 
